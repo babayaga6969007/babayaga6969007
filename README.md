@@ -1,6 +1,7 @@
 ### Hellow world, I'm Devashish - aka [babayaga][website] 👋
 
 [![Website](https://img.shields.io/website?label=devashishpathak.com.np&style=for-the-badge&url=https%3A%2F%2Fdevashishpathak.com.np)](https://devashishpathak.com.np)
+[![Website](https://img.shields.io/website?label=birgorkhali.com&style=for-the-badge&url=https%3A%2F%2Fbirgorkhali.com)](https://birgorkhali.com)
 
 ## I'm a Programmer,Website Designer,Digital Marketer and a Creative Thinker
 
@@ -43,14 +44,14 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [How to get Netflix for free](https://devashishpathak.com.np/how-to-get-netflix-for-free/)
+- [How to secure your email](https://devashishpathak.com.np/how-to-secure-you-email/)
+- [How to create a website in Nepal for free](https://devashishpathak.com.np/how-to-create-website-in-nepal-for-free/)
+- [How Daraz Works and Makes Money](https://devashishpathak.com.np/daraz/)
+- [How to make your Computer Faster](https://birgorkhali.com/5-ways-to-make-your-computer-faster-2020/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://birgorkhali.com)
 
 ---
 
