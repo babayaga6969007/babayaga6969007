@@ -2,9 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=devashishpathak.com.np&style=for-the-badge&url=https%3A%2F%2Fdevashishpathak.com.np)](https://devashishpathak.com.np)
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Programmer,Website Designer,Digital Marketer and a Creative Thinker
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a [Nepali Coupons][wwebsite]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -94,6 +94,7 @@
 </details>
 
 [website]: https://devashishpathak.com.np
+[wwebsite]: https://nepalicoupons.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
