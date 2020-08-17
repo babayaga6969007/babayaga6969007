@@ -1,6 +1,6 @@
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
-[![Website](https://devashishpathak.com.np)
+[Website](https://devashishpathak.com.np)
 
 ## I'm a Husband, Father, Developer, and Teacher!
 
