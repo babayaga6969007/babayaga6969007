@@ -64,7 +64,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=babayaga6969007)](https://github.com/anuraghazra/github-readme-stats)
+  (https://github-readme-stats.vercel.app/api?username=babayaga6969007)](https://github.com/babayaga6969007/github-readme-stats)
 </details>
 
 [website]: https://devashishpathak.com.np
