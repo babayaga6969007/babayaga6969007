@@ -61,11 +61,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  (https://github-readme-stats.vercel.app/api?babayaga6969007)](https://github.com/babayaga6969007/github-readme-stats)
-</details>
 
 [website]: https://devashishpathak.com.np
 [wwebsite]: https://nepalicoupons.com
