@@ -93,7 +93,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://devashishpathak.com.np
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
