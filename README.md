@@ -4,18 +4,18 @@
 
 ## I'm a Programmer,Website Designer,Digital Marketer and a Creative Thinker
 
-- 🔭 I’m currently working on a [Nepali Coupons][wwebsite]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 💻 I’m currently working on my startup [Nepali Coupons][wwebsite]!
+- 🌱 I’m currently investing time to improve myself spiritually,mentally,socially,emotionally and economically.
+- 👯 I’m looking to collaborate with other content creators who have tons lot of startup ideas and have plan for future.
+- 🥅 2020 Goals: To win Corona and Stay Alive 🤣
+- ⚡ Fun fact: I love playing E-sports games and meditation.
 
 
 ### Connect with me:
 
 [<img align="left" alt="devashishpathak.com.np.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt=" | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -95,11 +95,8 @@
 
 [website]: https://devashishpathak.com.np
 [wwebsite]: https://nepalicoupons.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+[instagram]: https://www.instagram.com/devashish_pathak1/
+[linkedin]: https://www.linkedin.com/in/devashish-pathak-4210b01a5/
+[facebook]: https://www.facebook.com/techiguy.devashish/
+
