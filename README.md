@@ -1,6 +1,6 @@
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
 
-[![Website](https://img.shields.io/website?label=devashishpathak.com.np&style=for-the-badge&url=https%3A%2F%2Fdevashishpathak.com.np)](https://devashishpathak.com.np)
+[![Website](https://devashishpathak.com.np)
 
 ## I'm a Husband, Father, Developer, and Teacher!
 
