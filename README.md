@@ -1,7 +1,7 @@
 ### Hellow world, I'm Devashish - aka [babayaga][website] 👋
 
-[![Website](https://img.shields.io/website?label=devashishpathak.com.np&style=for-the-badge&url=https%3A%2F%2Fdevashishpathak.com.np)](https://devashishpathak.com.np)
-[![Website](https://img.shields.io/badge/WWW.BIRGORKHALI.COM-VISIT-brightgreen&style=for-the-badge&url=https%3A%2F%2FBIRGORKHALI.COM](https://birgorkhali.com)
+[![Website](https://img.shields.io/badge/WWW.DEVASHISHPATHAK.COM.NP-VISIT-brightgreen](https://devashishpathak.com.np)
+[![Website](https://img.shields.io/badge/WWW.BIRGORKHALI.COM-VISIT-brightgreen](https://birgorkhali.com)
 
 
 ## I'm a Programmer,Website Designer,Digital Marketer and a Creative Thinker
