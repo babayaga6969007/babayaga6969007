@@ -63,7 +63,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="babayaga6969007's Github Stats" src="github-readme-stats.devashish.vercel.app/api?username=babayaga6969007&show_icons=true&hide_border=true" />
+  <img align="left" alt="babayaga6969007's Github Stats" src="https://github-readme-stats.devashish.vercel.app/api?username=babayaga6969007&show_icons=true&hide_border=true" />
 
 </details>
 
