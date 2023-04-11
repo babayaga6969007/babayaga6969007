@@ -10,7 +10,7 @@
 - 💻 I’m currently working on my startup [Nepali Coupons][wwebsite]!
 - 🌱 I’m currently investing time to improve myself spiritually,mentally,socially,emotionally and economically.
 - 👯 I’m looking to collaborate with other content creators who have tons lot of startup ideas and have plan for future.
-- 🥅 2020 Goals: To win Corona and Stay Alive 🤣
+- 🥅 2023 Goals: To be better than what i was yesterday.
 - ⚡ Fun fact: I love playing E-sports games and meditation.
 
 
